@@ -29,7 +29,6 @@ I'm Dieson Powikani, a 24-year old technical enthusiast who does Blockchain deve
 
 <br/>
   
-?solidity=appveyor
 
 
 <br/>
