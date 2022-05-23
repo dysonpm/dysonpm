@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+### Hi there I'm Dieson👋🏿
 
-<h2> Hey there! I'm Aditya.</h2>
+I'm Dieson Powikani, a 24-year old technical enthusiast who does Blockchain development. Passionate to contribute open-source projects and make cool products.<br>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Self taught Developer.
+- 🤔 &nbsp; Exploring new technologies and developing software.
+- 🎓 &nbsp; Self-Taught Developer graduated at University of At Home
 - 🌱 &nbsp; Learning more about Smart Contracts and Dapps.
 - ✍️ &nbsp; Pursuing Blockchain Development and enjoying life as hobby.
 
@@ -40,5 +40,3 @@
 <a href="https://www.linkedin.com/in/dieson-mbengi-powikani-28b1b6199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dieson%20Powikani-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:dieson.powikani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dieson.powikani@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" 
