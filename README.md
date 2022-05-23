@@ -36,8 +36,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www..com/"><img alt="Website" src="https://img.shields.io/badge/Website-Coming Soon-blue?style=flat-square&logo=google-chrome"></a>
 <a href="
-https://www.linkedin.com/in/dieson-mbengi-powikani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dieson%20Powikani20Singh-blue?style=flat-square&logo=linkedin"></a>
+https://www.linkedin.com/in/dieson-mbengi-powikani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dieson%20Powikani-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:dieson.powikani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dieson.powikani@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
