@@ -28,12 +28,12 @@ I'm Dieson Powikani, a 24-year old technical enthusiast who does Blockchain deve
 
 <br/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+
 
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏾 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www..com/"><img alt="Website" src="https://img.shields.io/badge/Website-Coming Soon-blue?style=flat-square&logo=google-chrome"></a>
