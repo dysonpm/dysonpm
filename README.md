@@ -1,9 +1,9 @@
 # Hi there ✋🏿
 
-I'm Dieson, an aspiring designer and developer with a strong affinity for app design and coding. I have recently discovered my passion for cybersecurity and am dedicated to self-learning in this field.
-My goal is to design sleek and user-friendly apps that embody a cool and minimalist style. The world of app design fascinates me, and I strive to create a unique visual expression through creative innovation.
-This portfolio represents my ongoing journey and the enthusiasm I feel for these fields. It is an expression of my desire to leave a positive impact through creative app design and coding.
+**'IT Enthusiasts'**
 
+Hi, I'm Dieson! I'm an aspiring developer with a strong passion for building beautiful and secure apps using Flutter. I've recently been captivated by the world of cybersecurity, and I'm actively self-learning to delve deeper into this critical field.
+My goal is to design sleek, user-friendly apps that embrace a minimalist aesthetic while prioritizing robust security measures. 
 ---
 
 <p align="left">
