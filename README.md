@@ -12,3 +12,7 @@ Hi, I'm Dieson! I'm an aspiring developer with a strong passion for building bea
  <img align="left" alt="vscode" width="30px" styl="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
  <img align="left" alt="vscode" width="30px" styl="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
  <br/ > 
+
+
+
+https://media.giphy.com/media/5AwCyygiuCO3ai5Sqhq/giphy.gif
