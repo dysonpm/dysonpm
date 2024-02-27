@@ -13,11 +13,5 @@ Hi, I'm Dieson! I'm an aspiring developer with a strong passion for building bea
  <img align="left" alt="vscode" width="30px" styl="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
           
                    
-          
-Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
-Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
-Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
-Sunday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   22.69%
+ ![image](https://github.com/dysonpm/dysonpm/assets/97970907/ba30ddc1-939a-425b-9570-a25528a480db)
+
