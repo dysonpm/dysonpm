@@ -8,3 +8,6 @@ My goal is to design sleek and user-friendly apps that embody a cool and minimal
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dysonpm&theme=dark&hide_border=false)<br/>
+
+#### 🕷️ TryHackMe:
+<img src="https://tryhackme-badges.s3.amazonaws.com/Dysvk45.png" alt="TryHackMe">
